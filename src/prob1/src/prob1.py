@@ -4,7 +4,7 @@ import rospy
 from std_msgs.msg import String
 
 
-name  = input("Enter your name (Jolyne/Joestar): ")  #taking input from the user 
+user_name  = input("Enter your name (Jolyne/Joestar): ")  #taking input from the user 
 
 def callback(msg):
     sender_name = msg.data.split(":")[0]     
