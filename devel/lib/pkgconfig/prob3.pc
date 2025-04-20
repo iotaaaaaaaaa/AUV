@@ -1,0 +1,8 @@
+prefix=/home/iotaaaaaaaaa/catkin_ws/devel
+
+Name: prob3
+Description: Description of prob3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

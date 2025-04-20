@@ -1,0 +1,8 @@
+prefix=/home/iotaaaaaaaaa/catkin_ws/devel
+
+Name: prob4
+Description: Description of prob4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
