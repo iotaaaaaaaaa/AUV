@@ -8,7 +8,7 @@ user_name  = input("Enter your name (Jolyne/Joestar): ")  #taking input from the
 
 def callback(msg):
     sender_name = msg.data.split(":")[0]     
-    if sender_name != name:                       #if i enter same name in two terminals i need to not show anything so for that checking that the user who sent the msg is same  or not 
+    if sender_name != user_name:                       #if i enter same name in two terminals i need to not show anything so for that checking that the user who sent the msg is same  or not 
         rospy.loginfo(msg.data)
 
 rospy.init_node("Convo", anonymous=True)          #creating a node 
