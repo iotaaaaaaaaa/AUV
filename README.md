@@ -6,7 +6,7 @@ Hi,I'm Girish . I love solving problems  , I'm a  CP enthusiast.Though im a mech
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Prob1   - Approach 
 
-So , Given was u need to create a chat convo between two people on same node and same topic so i created  the node and intialised the topic as chat and then runned the program initally i took the input of the user and  with the user name i.e i sent it like user: msg he texted like that to the callback so that it identifies who is sending the message\
+  So , Given was u need to create a chat convo between two people on same node and same topic so i created  the node and intialised the topic as chat and then runned the program initally i took the input of the user and  with the user name i.e i sent it like user: msg he texted like that to the callback so that it identifies who is sending the message\
 
 Prob1 - problem faced 
 
